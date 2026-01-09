@@ -14,7 +14,7 @@ public enum TesterMessagesEnum {
         this.message = message;
     }
 
-    public String getMessage() {
+    public String getMessag() {
         return this.message;
     }
 }
